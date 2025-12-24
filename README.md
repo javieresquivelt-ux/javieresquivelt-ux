@@ -1,4 +1,4 @@
-<p align="center">
+<p align="Left">
   <img src="https://raw.githubusercontent.com/javieresquivelt-ux/javieresquivelt-ux/main/repo.png" alt="Javier Esquivel - Avatar desarrollo" width="300" />
 </p>
 
