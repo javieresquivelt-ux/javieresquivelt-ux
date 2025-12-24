@@ -93,6 +93,7 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 ## 📫 Contacto
 
-- GitHub: [@javieresquivelt-ux](https://github.com/javieresquivelt-ux)
-- LinkedIn: [Javier Esquivel Troncoso](https://www.linkedin.com/in/javier-esquivel-troncoso-5b216230/)  
-- Correo: javieresquivelt@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-javieresquivelt--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javieresquivelt-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Esquivel%20Troncoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-esquivel-troncoso-5b216230/)
+[![Email](https://img.shields.io/badge/Email-javieresquivelt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javieresquivelt@gmail.com)
+
