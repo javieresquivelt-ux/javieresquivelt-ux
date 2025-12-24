@@ -1,5 +1,5 @@
-<p align="Left">
-  <img src="https://raw.githubusercontent.com/javieresquivelt-ux/javieresquivelt-ux/main/repo2.png" alt="Javier Esquivel - Avatar desarrollo" width="350" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/javieresquivelt-ux/javieresquivelt-ux/main/repo2.png" alt="Javier Esquivel - Avatar desarrollo" width="500" />
 </p>
 
 # Hola, soy Javier Esquivel
@@ -18,7 +18,7 @@ Profesional de Tecnologías de la Información desde principios de los 2000, act
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 📚 Actualmente aprendiendo
 
 Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando con:
 
@@ -44,18 +44,26 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
   <!-- Microsoft 365 -->
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
-  <!-- DNS (genérico) -->
-  <img src="https://img.shields.io/badge/DNS-02569B?style=flat-square&logo=cloudflare&logoColor=white" alt="DNS" />
   <!-- Google Cloud -->
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<!-- Azure -->
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
   <!-- Windows Server (usando logo de Windows) -->
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    <!-- DNS (genérico) -->
+  <img src="https://img.shields.io/badge/DNS-02569B?style=flat-square&logo=cloudflare&logoColor=white" alt="DNS" />
   <!-- Redes (badge genérico) -->
   <img src="https://img.shields.io/badge/Redes-0A66C2?style=flat-square&logo=network&logoColor=white" alt="Redes computacionales" />
   <!-- Ciberseguridad (genérico) -->
   <img src="https://img.shields.io/badge/Ciberseguridad-4D4D4D?style=flat-square&logo=databricks&logoColor=white" alt="Ciberseguridad" />
+    <!-- Google Apps Script -->
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
+<!-- Looker Studio -->
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" />
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <!-- Git -->
@@ -66,7 +74,7 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧠 Habilidades
 
 **Experiencia previa en TI**
 
@@ -86,11 +94,9 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 ## 📂 Proyectos
 
-> ...
+En este momento estoy comenzando a publicar proyectos orientados al desarrollo **Full Stack** y a la automatización con herramientas cloud.  
+Pronto iré añadiendo aquí repositorios destacados con demos y documentación.
 
-> ...
-
-> ...
 
 ---
 
