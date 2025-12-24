@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/javieresquivelt-ux/javieresquivelt-ux/main/repo.png" alt="Javier Esquivel - Avatar desarrollo" width="600" />
+  <img src="https://raw.githubusercontent.com/javieresquivelt-ux/javieresquivelt-ux/main/repo.png" alt="Javier Esquivel - Avatar desarrollo" width="300" />
 </p>
 
 # Hola, soy Javier Esquivel
