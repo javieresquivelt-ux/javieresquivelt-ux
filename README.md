@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/javieresquivelt-ux/javieresquivelt-ux/main/Gemini_Generated_Image_ntr2gontr2gontr2.jpg" alt="Javier Esquivel - Avatar desarrollo" width="350" />
+</p>
+
 # Hola, soy Javier Esquivel
 
 Profesional de Tecnologías de la Información con más de 27 años de trayectoria, actualmente fortaleciendo sus competencias en desarrollo **Full Stack** y cursando el Máster en Desarrollo Web (Full Stack) en Conquer Blocks, guiado por una mentalidad de crecimiento y aprendizaje continuo.​
