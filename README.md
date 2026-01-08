@@ -94,7 +94,11 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 ## 📂 Proyectos
 
+[Proyecto Texto a Voz](https://github.com/javieresquivelt-ux/proyecto_texto_a_audio)
+
 [Proyecto Mapear Directorios Remotos con Linux](https://github.com/javieresquivelt-ux/directorio_remoto_wsl_linux)
+
+[Proyecto Copia Remota Full/Direrencial con Linux](https://github.com/javieresquivelt-ux/copia_remota_diferencial_wsl_linux)
 
 
 
