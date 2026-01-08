@@ -94,8 +94,8 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 ## 📂 Proyectos
 
-En este momento estoy comenzando a publicar proyectos orientados al desarrollo **Full Stack** y a la automatización con herramientas cloud.  
-Pronto iré añadiendo aquí repositorios destacados con demos y documentación.
+[Proyecto Mapear Directorios Remotos con Linux](https://github.com/javieresquivelt-ux/directorio_remoto_wsl_linux)
+
 
 
 ---
