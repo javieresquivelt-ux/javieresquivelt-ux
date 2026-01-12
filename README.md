@@ -98,7 +98,7 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 [Proyecto Juego Arcade Pong](https://github.com/javieresquivelt-ux/proyecto_pong_game)
 
-[Proyecto Texto a Voz](https://github.com/javieresquivelt-ux/proyecto_texto_a_audio)
+[Proyecto Herramienta que convierte Articulo web (Texto) a Formato Audio (mp3)](https://github.com/javieresquivelt-ux/proyecto_texto_a_audio)
 
 [Proyecto Mapear Directorios Remotos con Linux](https://github.com/javieresquivelt-ux/directorio_remoto_wsl_linux)
 
