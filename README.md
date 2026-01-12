@@ -94,6 +94,10 @@ Estoy cursando el Máster en Desarrollo Web Full Stack, donde estoy trabajando c
 
 ## 📂 Proyectos
 
+[Proyecto Herramienta Comprobadora de Conectividad para Servicios de Red](https://github.com/javieresquivelt-ux/proyecto_comprobador_conectividad_sitios_web)
+
+[Proyecto Juego Arcade Pong](https://github.com/javieresquivelt-ux/proyecto_pong_game)
+
 [Proyecto Texto a Voz](https://github.com/javieresquivelt-ux/proyecto_texto_a_audio)
 
 [Proyecto Mapear Directorios Remotos con Linux](https://github.com/javieresquivelt-ux/directorio_remoto_wsl_linux)
